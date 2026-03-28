@@ -1,0 +1,293 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-03-28T05:15:58.767Z",
+  "activeFeatures": [
+    "providers",
+    "ui",
+    "layout",
+    "sections",
+    "claude-nextjs-starters",
+    "examples",
+    "docs"
+  ],
+  "primaryFeature": "providers",
+  "features": {
+    "providers": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T04:49:10.254Z",
+        "lastUpdated": "2026-03-28T04:49:10.254Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/components/providers/theme-provider.tsx"
+    },
+    "ui": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T04:49:15.156Z",
+        "lastUpdated": "2026-03-28T04:51:56.895Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/components/ui/form.tsx"
+    },
+    "layout": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T04:49:24.101Z",
+        "lastUpdated": "2026-03-28T05:15:58.767Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/components/layout/navbar.tsx"
+    },
+    "sections": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T04:50:18.845Z",
+        "lastUpdated": "2026-03-28T04:56:18.661Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/components/sections/cta.tsx"
+    },
+    "claude-nextjs-starters": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T04:52:09.860Z",
+        "lastUpdated": "2026-03-28T05:14:45.944Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/app/page.tsx"
+    },
+    "examples": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T05:09:57.913Z",
+        "lastUpdated": "2026-03-28T05:09:57.913Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/app/examples/page.tsx"
+    },
+    "docs": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-28T05:10:55.855Z",
+        "lastUpdated": "2026-03-28T05:10:55.855Z"
+      },
+      "lastFile": "/Users/heonamsu/workspace/courses/claude-nextjs-starters/app/docs/page.tsx"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-28T04:49:10.254Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-28T05:15:58.767Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-03-28T04:49:10.254Z",
+      "feature": "providers",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:49:15.156Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:49:24.101Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:49:40.072Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:49:55.041Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:50:18.845Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:50:35.034Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:50:56.100Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:51:13.632Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:51:23.171Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:51:56.895Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:52:09.860Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:52:20.035Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:52:26.214Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:56:00.133Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:56:05.004Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:56:07.247Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:56:13.158Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:56:15.813Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T04:56:18.661Z",
+      "feature": "sections",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:08:50.081Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:08:53.845Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:08:56.914Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:09:01.798Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:09:05.031Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:09:57.913Z",
+      "feature": "examples",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:10:55.855Z",
+      "feature": "docs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:14:45.944Z",
+      "feature": "claude-nextjs-starters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-28T05:15:58.767Z",
+      "feature": "layout",
+      "phase": "do",
+      "action": "updated"
+    }
+  ]
+}
