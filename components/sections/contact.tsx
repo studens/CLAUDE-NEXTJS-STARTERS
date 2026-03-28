@@ -40,7 +40,6 @@ export function Contact() {
   async function onSubmit(values: ContactValues) {
     // 실제 프로젝트에서 이 부분에 API 호출 추가
     await new Promise((resolve) => setTimeout(resolve, 600));
-    console.log(values);
     toast.success("메시지가 전송되었습니다!", {
       description: "빠른 시일 내에 답변 드리겠습니다.",
     });
